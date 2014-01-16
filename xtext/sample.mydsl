@@ -1,0 +1,20 @@
+1. "Ile wynosi pow. Bieszczadzkiego PN?" {
+	- "28533 ha"
+	+ "292,02 km2"
+	- "28238 ha"
+	- "2435 ha"
+}
+
+2. "W którym roku zosta³ utworzony BPN?" {
+	- "1973"
+	- "1972"
+	- "1988"
+	+ "1949"
+}
+
+3. "Ile km wynosi d³ugoœæ szlaków w BPN?" {
+	- "206 km"
+	- "210 km"
+	+ "307 km"
+	- "106 km"
+}
